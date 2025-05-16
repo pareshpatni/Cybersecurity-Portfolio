@@ -10,10 +10,8 @@ Aspiring Cybersecurity Engineer with strong hands-on experience in networking, L
 - Programming: C, C++, HTML, Python (Learning)
 
 ## Certifications
-- Ethical Hacking - Technokraft
-- CCNA Networking Basics - Technokraft
-- HackTheTech Cybersecurity Program - Ficklem
 - Ethical hacking and penetration testing - Udemy
+- AI and CHATGPT - Be10X
 
 ## Projects
 - **Credit Card Fraud Detection using ML**
